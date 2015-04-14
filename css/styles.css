@@ -7,7 +7,7 @@ background: yellow;
 }
 
 
-html.no-svg #svg-logo {
+html.no-svg #png-logo {
 
 display:none;
 
@@ -16,7 +16,7 @@ display:none;
 /*
 Older Browser*/
 
-html.svg #png-logo {
+html.svg #svg-logo {
 
 display:none;
 
